@@ -1,0 +1,6 @@
+,Sampling1_RandomOver,Sampling2_SMOTE,Sampling3_ADASYN,Sampling4_RandomUnder,Sampling5_SMOTEENN
+M1_LogisticRegression,91.83,91.83,91.83,91.83,92.16
+M2_DecisionTree,100.0,100.0,100.0,100.0,99.67
+M3_RandomForest,100.0,100.0,100.0,100.0,99.67
+M4_SVM,98.04,98.04,98.04,98.04,97.71
+M5_KNN,98.69,98.69,98.69,98.69,98.37
