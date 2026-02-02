@@ -1,14 +1,14 @@
-\# Sampling Assignment – Credit Card Fraud Detection
+Sampling Assignment – Credit Card Fraud Detection
 
 
 
-\## 📌 Objective
+📌 Objective
 
 The objective of this assignment is to study the impact of different sampling techniques on highly imbalanced datasets and analyze how these techniques affect the performance of multiple machine learning models.
 
 
 
-\## 📊 Dataset
+📊 Dataset
 
 The dataset used is a credit card fraud detection dataset, which is highly imbalanced.
 
@@ -18,7 +18,7 @@ The dataset used is a credit card fraud detection dataset, which is highly imbal
 
 
 
-\## ⚙️ Sampling Techniques Used
+⚙️ Sampling Techniques Used
 
 1\. Random Oversampling
 
@@ -32,7 +32,7 @@ The dataset used is a credit card fraud detection dataset, which is highly imbal
 
 
 
-\## 🤖 Machine Learning Models Used
+🤖 Machine Learning Models Used
 
 1\. Logistic Regression
 
@@ -46,7 +46,7 @@ The dataset used is a credit card fraud detection dataset, which is highly imbal
 
 
 
-\## 🧪 Methodology
+🧪 Methodology
 
 \- The dataset was first scaled using `StandardScaler`.
 
@@ -59,14 +59,12 @@ The dataset used is a credit card fraud detection dataset, which is highly imbal
 \- A comparison table and heatmap were generated.
 
 
-
-\## 📈 Results
+📈 Results
 
 A results table was generated showing the accuracy (%) of each model under each sampling technique. The best sampling method for each model was identified.
 
 
-
-\## 🏆 Observations
+🏆 Observations
 
 \- Some models performed better with oversampling techniques like SMOTE and ADASYN.
 
@@ -76,9 +74,10 @@ A results table was generated showing the accuracy (%) of each model under each 
 
 
 
-\## ✅ Conclusion
+✅ Conclusion
 
 Sampling techniques significantly impact model performance on imbalanced datasets. Choosing the right technique depends on the model and the nature of the data.
+
 
 
 
